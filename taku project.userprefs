@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/scripts/gameover.cs">
+    <Files>
+      <File FileName="Assets/scripts/gameover.cs" Line="15" Column="17" />
+      <File FileName="Assets/scripts/voice.cs" Line="1" Column="1" />
+      <File FileName="Assets/scripts/EnemyMove_useDistance.cs" Line="1" Column="1" />
+      <File FileName="Assets/asset store/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs" Line="66" Column="9" />
+      <File FileName="Assets/gameover2.cs" Line="11" Column="21" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
